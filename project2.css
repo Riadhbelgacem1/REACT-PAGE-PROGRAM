@@ -1,0 +1,38 @@
+h1{
+	font-family: Roboto;
+}
+#par1{
+	font-family: Roboto;
+	font-size: small;
+}
+/*const ele=React.addElement(
+	"li",
+	{className:"title"},
+	"Developpement web"
+)
+ReactDOM.render(ele,document.querySelector(".l1"))
+const ele=React.createElement(
+	"ul",
+	{id:'list'},
+	React.createElement(
+		"li",
+		null,
+		"tunisia",
+	),
+	React.createElement(
+		"li",
+		null,
+		"morroco",
+	),
+	React.createElement(
+		"li",
+		null,
+		"algeria",
+	),
+	React.createElement(
+		"li",
+		null,
+		"libya",
+	)
+);
+ReactDOM.render(ele,document.getElementById("l1"));*/
